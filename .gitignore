@@ -1,5 +1,4 @@
-
-# Created by https://www.gitignore.io/api/xcode,visualstudio
+*.DS_Store
 
 ### Xcode ###
 # Xcode
